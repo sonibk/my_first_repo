@@ -7,3 +7,5 @@ hey
 [github](https://www.youtube.com/watch?v=sz6zfrQpCQg)
 
 <https://classroom.github.com/a/J96QnO3X>
+
+learning Github is okay and fun
