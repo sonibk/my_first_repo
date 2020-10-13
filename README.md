@@ -9,8 +9,3 @@ hey
 <https://classroom.github.com/a/J96QnO3X>
 
 learning Github is okay and fun
-
-### COURSES
-    +genomics
-    +python
-    +git
