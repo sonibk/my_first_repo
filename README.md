@@ -9,3 +9,4 @@ hey
 <https://classroom.github.com/a/J96QnO3X>
 
 learning Github is okay and fun
+This is on the local computer .  today we have learnt a lot 
